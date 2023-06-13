@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-c4737a58","path":"/JavaFoundation/java13.html","title":"第十三章","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"示例：","slug":"示例","link":"#示例","children":[]}],"git":{},"filePathRelative":"JavaFoundation/java13.md"}');export{a as data};

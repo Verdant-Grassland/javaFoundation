@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-7bf19609","path":"/JavaFoundation/java3.html","title":"第三章","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"JavaFoundation/java3.md"}');export{a as data};
